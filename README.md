@@ -19,3 +19,4 @@ This is my Python and Jupyter notebooks playground from where I am learning and 
 * [Sphinx](https://www.sphinx-doc.org/en/master/)
 * [Neuraxle Pipelines](https://www.neuraxle.org/stable/index.html)
 * [The Python Mega Course](https://github.com/arditsulceteaching/thepythonmegacourse)
+* [The Google Sheets API](https://developers.google.com/sheets/api/guides/concepts)
