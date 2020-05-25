@@ -20,4 +20,5 @@ This is my Python and Jupyter notebooks playground from where I am learning and 
 * [Neuraxle Pipelines](https://www.neuraxle.org/stable/index.html)
 * [The Python Mega Course](https://github.com/arditsulceteaching/thepythonmegacourse)
 * [The Google Sheets API](https://developers.google.com/sheets/api/guides/concepts)
-* Visualizing the spread of the 2019 coronavirus with Python [Medium, Health](https://medium.com/@tyreus/visualizing-the-spread-of-the-2019-coronavirus-with-python-7e63230f9505)
+* Visualizing the spread of the 2019 coronavirus with Python [Medium, Health](https://medium.com/@tyreus/visualizing-the-spread-of-the-2019-coronavirus-with-python-7e63230f9505) by [P. Daniel Tyreus, PhD](https://github.com/pdtyreus/coronavirus-ds)
+* [AWS](https://aws.amazon.com/lightsail/features/)
