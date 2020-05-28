@@ -1,4 +1,4 @@
-# Sciencing with Python and Jupyter notebooks
+# Sciencing with Python and Jupyter notebooks and other significant tools for scientific research and computing
 This is my Python and Jupyter notebooks playground from where I am learning and enhancing my programming skills in the Python and notebooks software ecosystem along and APIs. This is building upon my prior knowledge of working with C++ and Visual Basic.
 
 ### 1. Interesting go to resources
