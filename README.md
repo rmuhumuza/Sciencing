@@ -1,5 +1,5 @@
 # Sciencing with Python and Jupyter notebooks and other significant tools supporting scientific research and interactive computing
-This is my playground where I intend to create code snipates while learning and enhancing my programming skills using interactive jupyter notebooks. The C++ and Python snipates will employ object-oriented programming concepts to garner good understanding while developing reusable classes and data structures capable automating certain analytical process encountered in engineering.
+In this playground I am creating various code snipates using interactive jupyter notebooks. The C++ and Python snipates employ object-oriented programming techniques in reusable classes and data structures that automate certain analytical processes encountered in engineering.
 
 ### 1. Interesting go to resources
 
