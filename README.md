@@ -13,6 +13,7 @@ This is my Python and Jupyter notebooks playground from where I am learning and 
 * [Spyder](https://docs.spyder-ide.org/)
 * [DataCamp](https://www.datacamp.com/community/data-science-cheatsheets?page=4)
 * Jupyter [nbviewer](https://nbviewer.jupyter.org/github/jupyter/notebook/blob/master/docs/source/examples/Notebook/Notebook%20Basics.ipynb)
+* Create a repo in Github full of jupyter notebooks and use [binder](https://mybinder.org/) to allow participants to interract with your code
 * [Engineers Code: reusable open learning modules for engineering computations](https://ieeexplore.ieee.org/abstract/document/9007681)
 * Should” Python for Engineers” be a Course Taught to Freshmen Engineering Majors in the USA and Abroad?
 * Guillaume Chevalier

@@ -8,6 +8,8 @@ __pycache__/
 
 #My FIles
 *.pdf
+*.jpg
+*.docx
 
 # Distribution / packaging
 .Python
