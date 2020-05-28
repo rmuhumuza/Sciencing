@@ -1,5 +1,5 @@
-# Sciencing with Python and Jupyter notebooks and other significant tools for scientific research and computing
-This is my Python and Jupyter notebooks playground from where I am learning and enhancing my programming skills in the Python and notebooks software ecosystem along and APIs. This is building upon my prior knowledge of working with C++ and Visual Basic.
+# Sciencing with Python and Jupyter notebooks and other significant tools supporting scientific research and interactive computing
+This is my playground where I intend to create code snipates while learning and enhancing my programming skills using interactive jupyter notebooks. The C++ and Python snipates will employ object-oriented programming concepts to garner good understanding while developing reusable classes and data structures capable automating certain analytical process encountered in engineering.
 
 ### 1. Interesting go to resources
 
