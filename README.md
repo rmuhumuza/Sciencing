@@ -6,6 +6,7 @@ In this playground I am creating various code snipates using interactive jupyter
 * Getting started with writing and formatting on [GitHub](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
 * [kaggle](https://www.kaggle.com/)
 * [Teaching and Learning with Jupyter](https://jupyter4edu.github.io/jupyter-edu-book/)
+* Machine Learning, Olden, J.D., J.J. Lawler, and N.L. Poff. 2008. “Machine Learning Methods Without Tears: A Primer for Ecologists.” The Quarterly Review of Biology 83 (2):171–93. [doi:10.1086/587826.](https://www.journals.uchicago.edu/doi/pdfplus/10.1086/587826)
 * The repository of a [A gallery of interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
 * [Jupyter community](https://discourse.jupyter.org/)
 * [Natural Language Processing](https://www.youtube.com/watch?v=NYkbqzTlW3w): Topic Modeling with Latent Dirichlet Allocation in Python. See also on [adashofdata](https://github.com/adashofdata/nlp-in-python-tutorial) and [Alice Zhao](https://github.com/rmuhumuza/muffin-cupcake) on GitHub
