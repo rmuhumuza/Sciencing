@@ -5,6 +5,7 @@ In this playground I am creating various code snipates using interactive jupyter
 
 * Getting started with writing and formatting on [GitHub](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
 * [Cheat sheet: Data Visualisation in Python](https://www.analyticsvidhya.com/blog/2015/06/data-visualization-in-python-cheat-sheet/)
+* [Introduction to Probability, Joseph K. Blitzstein and Jessica Hwang, Harvard University and Stanford University](https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/view)
 * [kaggle](https://www.kaggle.com/)
 * [Teaching and Learning with Jupyter](https://jupyter4edu.github.io/jupyter-edu-book/)
 * Machine Learning, Olden, J.D., J.J. Lawler, and N.L. Poff. 2008. “Machine Learning Methods Without Tears: A Primer for Ecologists.” The Quarterly Review of Biology 83 (2):171–93. [doi:10.1086/587826.](https://www.journals.uchicago.edu/doi/pdfplus/10.1086/587826)
