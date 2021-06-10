@@ -4,6 +4,7 @@ In this playground I am creating various code snipates using interactive jupyter
 ### 1. Interesting go to resources
 
 * Getting started with writing and formatting on [GitHub](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
+* [Cheat sheet: Data Visualisation in Python](https://www.analyticsvidhya.com/blog/2015/06/data-visualization-in-python-cheat-sheet/)
 * [kaggle](https://www.kaggle.com/)
 * [Teaching and Learning with Jupyter](https://jupyter4edu.github.io/jupyter-edu-book/)
 * Machine Learning, Olden, J.D., J.J. Lawler, and N.L. Poff. 2008. “Machine Learning Methods Without Tears: A Primer for Ecologists.” The Quarterly Review of Biology 83 (2):171–93. [doi:10.1086/587826.](https://www.journals.uchicago.edu/doi/pdfplus/10.1086/587826)
@@ -24,3 +25,4 @@ In this playground I am creating various code snipates using interactive jupyter
 * [The Google Sheets API](https://developers.google.com/sheets/api/guides/concepts)
 * Visualizing the spread of the 2019 coronavirus with Python [Medium, Health](https://medium.com/@tyreus/visualizing-the-spread-of-the-2019-coronavirus-with-python-7e63230f9505) by [P. Daniel Tyreus, PhD](https://github.com/pdtyreus/coronavirus-ds)
 * [AWS](https://aws.amazon.com/lightsail/features/)
+* [Why I will never have a girlfriend](https://logological.org/girlfriend)
