@@ -1,8 +1,10 @@
-# Sciencing with Python and Jupyter notebooks and other significant tools supporting scientific research and interactive computing
-In this playground I am creating various code snipates using interactive jupyter notebooks. The C++ and Python snipates employ object-oriented programming techniques in reusable classes and data structures that automate certain analytical processes encountered in engineering.
+# Sciencing with Python, Jupyter notebooks and other significant tools supporting scientific research and interactive computing
+In this playground I am damping some interesting resources discovered thus-far during my journey in computing.
 
 ### 1. Interesting go to resources
 
+* [Doodle](https://doodle.com/create)
+* [Cookiecutter](https://cookiecutter.readthedocs.io/en/1.7.0/README.html)
 * Getting started with writing and formatting on [GitHub](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
 * [Cheat sheet: Data Visualisation in Python](https://www.analyticsvidhya.com/blog/2015/06/data-visualization-in-python-cheat-sheet/)
 * [Introduction to Probability, Joseph K. Blitzstein and Jessica Hwang, Harvard University and Stanford University](https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/view)
