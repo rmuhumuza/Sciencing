@@ -1,5 +1,5 @@
 # Sciencing with Python, Jupyter notebooks and other significant tools supporting scientific research and interactive computing
-In this playground I am damping some interesting resources discovered thus-far during my journey in computing.
+In this playground I am dropping some interesting resources discovered during my learning and practice.
 
 ### 1. Interesting go to resources
 
