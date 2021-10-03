@@ -3,6 +3,7 @@ In this playground I am dropping some interesting resources discovered during my
 
 ### 1. Interesting go to resources
 
+* Data processing and analysis can be fun! But a dataset with missing values (NaNs) can be problematic. For some ideas on dealing with missing data see [How to Handle Missing Data](https://towardsdatascience.com/how-to-handle-missing-data-8646b18db0d4) and [imputeTS: Time Series Missing Value Imputation in R, by Steffen Moritz and Thomas Bartz-Beielstein](https://cran.r-project.org/web/packages/imputeTS/vignettes/imputeTS-Time-Series-Missing-Value-Imputation-in-R.pdf).
 * [Chroma.js](https://gka.github.io/palettes/#/9|s|00429d,96ffea,ffffe0|ffffe0,ff005e,93003a|1|1). This is a great tool to help in selecting the right colours in figures and plots. It helps in choosing colour combinations that are colour-blind safe. I have come to learn about this while reading Rizky's Nurhidayat technical article about [Matplotlib Styles for Scientific Plotting](https://towardsdatascience.com/matplotlib-styles-for-scientific-plotting-d023f74515b4). Find it at the online technical platform which I enjoy to read on the go - [Medium](https://medium.com/).
 * [Doodle](https://doodle.com/create)
 * [Cookiecutter](https://cookiecutter.readthedocs.io/en/1.7.0/README.html)
