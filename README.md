@@ -24,6 +24,7 @@ In this playground I am dropping some interesting resources discovered during my
 * [Engineers Code: reusable open learning modules for engineering computations](https://ieeexplore.ieee.org/abstract/document/9007681)
 * Should” Python for Engineers” be a Course Taught to Freshmen Engineering Majors in the USA and Abroad?
 * Guillaume Chevalier
+* [Quick tutorial on various topics on Python programming language](https://www.tutorialsteacher.com/python)
 * [Sphinx](https://www.sphinx-doc.org/en/master/)
 * [Neuraxle Pipelines](https://www.neuraxle.org/stable/index.html)
 * [The Python Mega Course](https://github.com/arditsulceteaching/thepythonmegacourse)
