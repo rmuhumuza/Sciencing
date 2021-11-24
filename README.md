@@ -7,6 +7,7 @@ Actually, this is simply my playground where I drop some interesting material th
 * [Chroma.js](https://gka.github.io/palettes/#/9|s|00429d,96ffea,ffffe0|ffffe0,ff005e,93003a|1|1). This is a great tool to help in selecting the right colours in figures and plots. It helps in choosing colour combinations that are colour-blind safe. I have come to learn about this while reading Rizky's Nurhidayat technical article about [Matplotlib Styles for Scientific Plotting](https://towardsdatascience.com/matplotlib-styles-for-scientific-plotting-d023f74515b4). Find it at the online technical platform which I enjoy to read on the go - [Medium](https://medium.com/).
 * [Doodle](https://doodle.com/create)
 * [Cookiecutter](https://cookiecutter.readthedocs.io/en/1.7.0/README.html)
+* Have you been to this modern end of tibbles? [tibble: Simple Data Frames](https://cran.r-project.org/web/packages/tibble/index.html)
 * Getting started with writing and formatting on [GitHub](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
 * [Cheat sheet: Data Visualisation in Python](https://www.analyticsvidhya.com/blog/2015/06/data-visualization-in-python-cheat-sheet/)
 * [Introduction to Probability, Joseph K. Blitzstein and Jessica Hwang, Harvard University and Stanford University](https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/view)
