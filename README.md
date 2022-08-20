@@ -3,6 +3,8 @@ Actually, this is simply my playground where I drop some interesting material th
 
 ### 1. Interesting go to resources
 
+* [Quick access point for Numerical Recipes](http://numerical.recipes/book/book.html).
+* [Excellent option to LabVIEW](https://sweep-me.net/).
 * Data processing and analysis can be fun! But a dataset with missing values (NaNs) can be problematic. For some ideas on dealing with missing data see [How to Handle Missing Data](https://towardsdatascience.com/how-to-handle-missing-data-8646b18db0d4) and [imputeTS: Time Series Missing Value Imputation in R, by Steffen Moritz and Thomas Bartz-Beielstein](https://cran.r-project.org/web/packages/imputeTS/vignettes/imputeTS-Time-Series-Missing-Value-Imputation-in-R.pdf).
 * [Brilliant online Themes Editor](https://tmtheme-editor.herokuapp.com)
 * [Chroma.js](https://gka.github.io/palettes/#/9|s|00429d,96ffea,ffffe0|ffffe0,ff005e,93003a|1|1). This is a great tool to help in selecting the right colours in figures and plots. It helps in choosing colour combinations that are colour-blind safe. I have come to learn about this while reading Rizky's Nurhidayat technical article about [Matplotlib Styles for Scientific Plotting](https://towardsdatascience.com/matplotlib-styles-for-scientific-plotting-d023f74515b4). Find it at the online technical platform which I enjoy to read on the go - [Medium](https://medium.com/).
